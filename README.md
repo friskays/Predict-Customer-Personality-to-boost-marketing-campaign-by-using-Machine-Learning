@@ -1,12 +1,12 @@
 # Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning
 
 Problem Statement : 
-Sebuah perusahaan dapat berkembang dengan pesat saat mengetahui perilaku customer personality nya, sehingga dapat memberikan layanan serta manfaat lebih baik kepada customers yang berpotensi menjadi loyal customers. Dengan mengolah data historical marketing campaign guna menaikkan performa dan menyasar customers yang tepat agar dapat bertransaksi di platform perusahaan, dari insight data tersebut fokus kita adalah membuat sebuah model prediksi kluster sehingga memudahkan perusahaan dalam membuat keputusan
+- Sebuah perusahaan dapat berkembang dengan pesat saat mengetahui perilaku customer personality nya, sehingga dapat memberikan layanan serta manfaat lebih baik kepada customers yang berpotensi menjadi loyal customers. Dengan mengolah data historical marketing campaign guna menaikkan performa dan menyasar customers yang tepat agar dapat bertransaksi di platform perusahaan, dari insight data tersebut fokus kita adalah membuat sebuah model prediksi kluster sehingga memudahkan perusahaan dalam membuat keputusan
 
 Goals :
-Membuat Cluster menggunakan KMeans, cluster optimal dipilih berdasarkan Elbow Method dan Silhoutte Score
+- Membuat Cluster menggunakan KMeans, cluster optimal dipilih berdasarkan Elbow Method dan Silhoutte Score
 
-Business Insight :
+Business Insight : \
 **Tipe 1 (Cluster 1)**
 
 - Konsumen tipe 1 merupakan tipe konsumen dengan rata-rata income tinggi dimana rata-ratanya 61.227k atau 2x lipat dari income konsumen tipe 2
@@ -21,8 +21,7 @@ Business Insight :
 - Konsumen tipe 1 merupakan konsumen yang mayoritas melakukan pembelian terakhir sejak >60 hari terakhir
 - Mayoritas konsumen tipe 1 belum menikah 
 - Minimal pembelian dengan menggunakan diskon masih 0
-- Minimal pembelian dengan menggunakan diskon dan katalog masih 0
-
+- Minimal pembelian dengan menggunakan diskon dan katalog masih 0 \
 
 **Tipe 2 (Cluster 2)**
 - Rata-rata Total spending konsumen tipe 2 adalah seperdelapan dari konsumen tipe 1, dimana minimal total spending adalah 5000
@@ -36,7 +35,7 @@ Business Insight :
 - Sebagian besar konsumen tipe 2 belum menikah 
 - Minimal pembelian dengan menggunakan diskon dan katalog masih 0
 
-Business Recommendation :
+Business Recommendation : \
 - Mempertahankan konsumen tipe 1 agar supaya tidak churn
 - Mengoptimalkan konsumen tipe 2 untuk melakukan transaksi karena terlihat minimal transaksinya masih 0 
 - Mengoptimalkan pembelian dengan diskon karena pada kedua tipe konsumen minimal pembelian masih 0, hal ini mengindikasikan bahwa tidak semua konsumen baik dari kedua tipe memanfaatkan diskon yang ada 
