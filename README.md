@@ -21,7 +21,7 @@ Business Insight : \
 - Konsumen tipe 1 merupakan konsumen yang mayoritas melakukan pembelian terakhir sejak >60 hari terakhir
 - Mayoritas konsumen tipe 1 belum menikah 
 - Minimal pembelian dengan menggunakan diskon masih 0
-- Minimal pembelian dengan menggunakan diskon dan katalog masih 0 \
+- Minimal pembelian dengan menggunakan diskon dan katalog masih 0
 
 **Tipe 2 (Cluster 2)**
 - Rata-rata Total spending konsumen tipe 2 adalah seperdelapan dari konsumen tipe 1, dimana minimal total spending adalah 5000
