@@ -35,7 +35,7 @@ Business Insight : \
 - Sebagian besar konsumen tipe 2 belum menikah 
 - Minimal pembelian dengan menggunakan diskon dan katalog masih 0
 
-Business Recommendation : \
+Business Recommendation : 
 - Mempertahankan konsumen tipe 1 agar supaya tidak churn
 - Mengoptimalkan konsumen tipe 2 untuk melakukan transaksi karena terlihat minimal transaksinya masih 0 
 - Mengoptimalkan pembelian dengan diskon karena pada kedua tipe konsumen minimal pembelian masih 0, hal ini mengindikasikan bahwa tidak semua konsumen baik dari kedua tipe memanfaatkan diskon yang ada 
